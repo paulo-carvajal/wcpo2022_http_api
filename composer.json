@@ -1,0 +1,13 @@
+{
+  "name": "pac/wppo2022",
+  "description": "Charla «WCPO 2022: OOP HTTP API»",
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "paulo\\api\\": "./"
+    }
+  }
+}
